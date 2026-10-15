@@ -54,7 +54,7 @@
     "orientation",
     "vitest5"
   ],
-  "author": "Intuitui Labs & Neev Foundation",
+  "author": "Intuitui Labs",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^24.13.5",
